@@ -58,7 +58,7 @@ DEFAULT_CONFIG = {
     "log_requests": True,
     "cookie_file": None,
     "proxy": None,
-    "api_keys": [],
+    "api_keys": [g2api_key_1234],
 }
 
 CONFIG = dict(DEFAULT_CONFIG)
